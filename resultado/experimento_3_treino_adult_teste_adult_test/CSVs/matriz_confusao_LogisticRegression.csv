@@ -1,0 +1,3 @@
+﻿classe;pred_<=50K;pred_>50K
+real_<=50K;9990;2440
+real_>50K;617;3229

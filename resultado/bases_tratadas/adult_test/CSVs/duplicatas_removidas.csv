@@ -1,0 +1,6 @@
+﻿age;workclass;fnlwgt;education;education_num;marital_status;occupation;relationship;race;sex;capital_gain;capital_loss;hours_per_week;native_country;income;dataset_origem
+24;Private;194630;Bachelors;13;Never-married;Prof-specialty;Not-in-family;White;Male;0;0;35;United-States;<=50K;adult-test.csv
+37;Private;52870;Bachelors;13;Married-civ-spouse;Exec-managerial;Husband;White;Male;0;0;40;United-States;<=50K;adult-test.csv
+29;Private;36440;Bachelors;13;Never-married;Adm-clerical;Not-in-family;White;Female;0;0;40;United-States;<=50K;adult-test.csv
+30;Private;180317;Assoc-voc;11;Divorced;Machine-op-inspct;Not-in-family;White;Male;0;0;40;United-States;<=50K;adult-test.csv
+18;Self-emp-inc;378036;12th;8;Never-married;Farming-fishing;Own-child;White;Male;0;0;10;United-States;<=50K;adult-test.csv

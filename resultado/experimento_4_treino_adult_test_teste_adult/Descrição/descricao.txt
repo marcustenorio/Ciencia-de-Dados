@@ -1,0 +1,19 @@
+Experimento 4 - treino adult-test.csv / teste adult.csv
+
+Estratégia utilizada: teste_cruzado
+Registros usados para treino: 16276
+Registros usados para teste: 32537
+
+Modelos avaliados:
+- LogisticRegression
+- RandomForest
+
+Métricas geradas:
+- accuracy
+- precision
+- recall
+- f1_score
+- roc_auc
+
+Observação:
+A coluna dataset_origem é mantida apenas para rastreabilidade e não entra no treinamento dos modelos.

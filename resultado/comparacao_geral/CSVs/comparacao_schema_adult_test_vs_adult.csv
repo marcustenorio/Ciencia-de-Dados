@@ -1,0 +1,17 @@
+﻿coluna;tipo_adult_test;tipo_adult;existe_no_adult_test;existe_no_adult
+age;int64;int64;True;True
+capital_gain;int64;int64;True;True
+capital_loss;int64;int64;True;True
+dataset_origem;object;object;True;True
+education;object;object;True;True
+education_num;int64;int64;True;True
+fnlwgt;int64;int64;True;True
+hours_per_week;int64;int64;True;True
+income;object;object;True;True
+marital_status;object;object;True;True
+native_country;object;object;True;True
+occupation;object;object;True;True
+race;object;object;True;True
+relationship;object;object;True;True
+sex;object;object;True;True
+workclass;object;object;True;True

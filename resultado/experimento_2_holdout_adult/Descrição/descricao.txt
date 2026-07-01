@@ -1,0 +1,19 @@
+Experimento 2 - Holdout 80/20 adult.csv
+
+Estratégia utilizada: holdout_80_20
+Registros usados para treino: 26029
+Registros usados para teste: 6508
+
+Modelos avaliados:
+- LogisticRegression
+- RandomForest
+
+Métricas geradas:
+- accuracy
+- precision
+- recall
+- f1_score
+- roc_auc
+
+Observação:
+A coluna dataset_origem é mantida apenas para rastreabilidade e não entra no treinamento dos modelos.

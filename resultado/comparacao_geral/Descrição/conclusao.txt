@@ -1,0 +1,19 @@
+Melhor resultado geral:
+- Experimento: Experimento 5 - KDD Dataset Unificado
+- Estratégia: holdout_80_20
+- Modelo: RandomForest
+- Accuracy: 0.8279
+- Precision: 0.5979
+- Recall: 0.8588
+- F1-score: 0.7050
+- ROC-AUC: 0.9224
+
+Variável mais determinante no KDD do dataset unificado:
+- Variável: relationship_group
+- Importância agrupada: 0.1793
+
+Observação metodológica:
+- Os datasets adult.csv e adult-test.csv foram avaliados individualmente por holdout 80/20.
+- Também foram executados testes cruzados entre bases.
+- O holdout 80/20 foi aplicado novamente ao dataset unificado.
+- A coluna dataset_origem foi mantida para rastreabilidade, mas removida do treinamento dos modelos.

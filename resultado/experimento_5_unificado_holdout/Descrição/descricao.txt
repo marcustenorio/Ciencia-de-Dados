@@ -1,0 +1,19 @@
+Experimento 5 - KDD Dataset Unificado
+
+Estratégia utilizada: holdout_80_20
+Registros usados para treino: 39050
+Registros usados para teste: 9763
+
+Modelos avaliados:
+- LogisticRegression
+- RandomForest
+
+Métricas geradas:
+- accuracy
+- precision
+- recall
+- f1_score
+- roc_auc
+
+Observação:
+A coluna dataset_origem é mantida apenas para rastreabilidade e não entra no treinamento dos modelos.
