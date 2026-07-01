@@ -1,4 +1,13 @@
-# Projeto KDD Adult Census Income
+<p align="center">
+  <img src="logo/logo_ime.png" alt="Logo do IME" width="180"/>
+</p>
+
+<h1 align="center">Projeto KDD Adult Census Income</h1>
+
+<p align="center">
+  IME — Disciplina de Ciência de Dados
+</p>
+
 
 ## Como executar
 
